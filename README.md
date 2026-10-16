@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I’m an IT graduate with software development experience in financial applications. After a career break, I returned to study data science and AI, and I’m building on that foundation through hands-on work.
 <!--
 **sumitaalapatt/sumitaalapatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
